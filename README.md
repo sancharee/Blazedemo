@@ -2,7 +2,7 @@
 
 This project illustrates end-to-end flow for booking flight tickets in BlazeDemo website
 
-#Technologies Used:
+# Technologies Used:
 ------------------ 
 Selenium WebDriver
 cucumber
@@ -12,7 +12,7 @@ PageObject Model
 
 
 
-#Scenarios Automated:
+# Scenarios Automated:
 1. Navigate to the https://blazedemo.com/
 2. Select From and To Destinations
 3. Search for Available Flights
@@ -23,6 +23,6 @@ PageObject Model
 8. Verify the Booking Confirmation
 
 
-#Running Test
+# Running Test
 To run  test
     $ mvn test
